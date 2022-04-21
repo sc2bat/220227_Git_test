@@ -1,4 +1,4 @@
-package t220311_01;
+package hash_test02;
 
 import java.util.HashMap;
 import java.util.Map;
